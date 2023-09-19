@@ -37,6 +37,7 @@ En el catch va el Exception que vamos gestionar
 
 ## EXCEPCIONES
 --NumberFormatException e (Este error sale cuando intentamos convertir un STRING a un NÚMERO)
+
 --RuntimeException e 
 
 
